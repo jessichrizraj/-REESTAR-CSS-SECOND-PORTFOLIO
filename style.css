@@ -1,0 +1,107 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    margin: 20px;
+}
+.section-one{
+    background-color: black;
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+    }
+    .section-one__title{
+        padding-top: 5px;
+    }
+    .section-one__desc{
+        padding-bottom: 10px;
+        color: grey;
+    }
+    .section-two{
+        background-color: black;
+        color: white;
+        text-align: center;
+        padding-bottom: 10px;
+        margin-top: 10px;
+        border-radius: 20px;
+    }
+    .section-three{
+        margin-left: 630px;
+        justify-content: center;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    
+    }
+    .section-three__nam{
+        color: white;
+    }
+    .section-three__num{
+        color: white;
+    }
+    .section-three__mail{
+        color: white;
+    }
+    .section-two__title{
+        padding-top: 13px;
+
+    }
+    .section-two__desc{
+        display: inline-block;
+        padding-bottom: 1px;
+        padding-top: 1px;
+        padding-left: 120px;
+        padding-right: 120px;
+        background-color: yellowgreen;
+        
+    }
+    .container-two{
+        display: inline-block;
+        margin-left: 120px;
+        margin-top: 10px;
+    
+    }
+    .section-six,.section-seven,.section-eight,.section-nine{
+        display: inline-block;
+        border: solid black 1px;
+        
+    }
+    
+    .section-six__im,.section-seven__im,.section-nine__im{
+         width: 300px;
+        height: 700px;
+    }
+    .section-six__title,.section-seven__title,.section-eight__title,.section-nine__title{
+        text-align: center;
+        padding-top: 20px;
+    }
+    .section-six__desc,.section-seven__desc,.section-eight__desc,.section-nine__desc{
+        text-align: center;
+        vertical-align: 2px;
+    }
+    .section-six__but,.section-seven__but,.section-eight__but,.section-nine__but{
+        margin-left: 110px;
+        margin-top: 3px;
+    }
+    .section-eight__im{
+        width: 310px;
+        height: 700px;
+        
+        
+        
+    }
+    .section-six__but,.section-seven__but,.section-eight__but,.section-nine__but{
+        background-color: yellowgreen;
+        color: black;
+        padding: 2px;
+        margin-bottom: 5px;
+    }
+    .section-eight__desc{
+        padding-left: 2px;
+        padding-right: 2px;
+    }
+    .section-two__desc{
+        border-radius: 8px;
+        border: solid black 1px
+    }
+
